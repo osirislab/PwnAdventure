@@ -1,0 +1,21 @@
+# docker-compose up --force-recreate
+version: '2'
+
+services:
+  master:
+    build: master
+    ports:
+      - "0.0.0.0:3333:3333"
+    environment:
+      - HOST=127.0.0.1
+
+  game:
+    build: game
+    ports:
+      - "0.0.0.0:3000:3000"
+    environment:
+      - HOST=127.0.0.1
+    volumes:
+      - ./game/PwnAdventure3_Data:/opt/pwn-adventure3/GameServer/PwnAdventure3_Data
+    depends_on:
+      - master

@@ -1,0 +1,11 @@
+# docker-compose up --force-recreate
+version: '2'
+
+services:
+  pwnadventure2:
+    build: .
+    ports:
+      - "0.0.0.0:4200:4200"
+      - "0.0.0.0:12345:12345"
+    environment:
+      - HOST=127.0.0.1
