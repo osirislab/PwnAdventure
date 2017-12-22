@@ -17,7 +17,7 @@ echo "Loading GameServer"
     # else
     #     sed -i "s/ip=.*/ip=$(ip addr | grep inet | grep eth0 | awk '{print $2}' | sed 's|/.*||')/" ./server.ini
     # fi
-    echo ip=192.168.1.15 >> ./server.ini
+    echo ip=$HOST >> ./server.ini
     ./start_servers.py
 }
 
