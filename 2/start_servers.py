@@ -14,7 +14,7 @@ master_port = 4200
 server_port_start = None
 username = None
 password = None
-host = '192.168.1.15'
+host = os.environ.get('HOST')
 disable_spectator = False
 
 # Get the working directory for the server
