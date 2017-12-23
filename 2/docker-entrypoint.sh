@@ -8,17 +8,18 @@ echo "Loading Masterserver"
     mono MasterServer.exe &
 }
 
-sleep 5
+sleep 2
+
 echo "Loading GameServer"
 {
     cd /root/pwnadventure2_server/GameServer
-    # if [[ $(grep -c 'ip' ./server.ini) -eq 0 ]]; then
-    #     echo ip=$(ip addr | grep inet | grep eth0 | awk '{print $2}' | sed 's|/.*||') >> ./server.ini
-    # else
-    #     sed -i "s/ip=.*/ip=$(ip addr | grep inet | grep eth0 | awk '{print $2}' | sed 's|/.*||')/" ./server.ini
-    # fi
-    echo ip=$HOST >> ./server.ini
-    ./start_servers.py
+    if [[ $(grep -c 'ip' ./server.ini) -eq 0 ]]; then
+        echo ip=$HOST >> ./server.ini
+    else
+        sed -i "s/ip=.*/ip=$HOST/" ./server.ini
+    fi
+    cat ./server.ini
+    python start_servers.py
 }
 
 echo "Finished"

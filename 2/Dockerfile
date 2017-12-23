@@ -1,6 +1,4 @@
 FROM ubuntu:12.04
-MAINTAINER Spenser Reinhardt
-ENV DEBIAN_FRONTEND noninteractive
 
 COPY pwnadventure2_server.tgz /root
 
