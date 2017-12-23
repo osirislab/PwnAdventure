@@ -1,0 +1,147 @@
+===
+Boaring Music
+50 Points - Unlocked
+Description:
+	If you are bored with the boars, I hear there might be something hidden in the music over in the Boaring Field. Stay a while and listen!
+Location:
+	Ray Kinsella in Town of Adventure
+Files Needed:
+	Boaring Field.ogg
+Flag:
+	ASTARISBOARN
+===
+
+
+
+====
+Long live the Queen
+250 Points - Unlocked
+Description:
+	That creepy cave is really creepy! I learned that there are messages hidden in the very sound you hear. Especially when the Spider Queen is around. Can you find out what it says?
+Location:
+	Norman Osbourne in Town of Adventure
+Files Needed:
+	LongLiveTheQueen/
+	LongLiveTheQueen/Creepy Cave.wav
+	LongLiveTheQueen/Spider Queen.wav
+Flag:
+	TheyCallMeThePhaseBeast
+===
+
+
+
+
+===
+A Boaring Quest
+150 Points - Unlocked
+Location: Paige Felt in North Park
+Description:
+	We need the Boomstick to rid the cemetery of its evil occupants. First we must sacrifice 9800 boar hides to appease the ancient guardian protecting the Boomstick.
+Flag:
+	ZombieProcessesWillEatYourBrains
+===
+
+
+
+====
+Cave of Nope
+50 Points - Unlocked
+Description:
+	Four of our town members have gone missing in this cave. There must be some great evil lurking in there. And I haven't been able to find anyone brave enough to vanquish it. 
+
+	Are you up for it? It's dangerous but there are rumors of great treasure.
+Location:
+	Pete Prker in Town of Awesome
+Flag:
+	At least it wasnt full of Creepers
+====
+
+
+
+
+====
+Unbearable
+75 Points - Unlocked
+Description:
+	There is a gigantic chest full of loot in the ridge to the east of town, bu it's locked and none know where the key can be found. It's also guarded bya  large number of fierce bears. 
+
+	Take this chest cracker and see if you can retrieve the legendary treasure.
+Location:
+	Justin Tolerable in Town of Adventure
+Flag:
+	The Drunken Master can bear any trial
+====
+
+
+
+====
+Rabbit of Caerbannog
+75 Points - Unlocked
+Location: Sir Robin in Ancient Ruins
+Description:
+	Watch out in the ruins, there is something in there. All I saw was a bunny rabbit but my buddies are now dead, so I bravely ran away. 
+
+	Perhaps you should find the Holy Hand Grenade, it might be the only thing that can kill it. I'm staying here. 
+Flag:
+	Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it
+===
+
+
+
+===
+Snow Down
+250 Points - Unlocked
+Location:
+	Amorphous Bob in North Park
+Description:
+	There is a serious snow storm through here, it hasn't stopped for days! Somewhere in the storm there is a great evil lurking, because everyone we have sent has not returned. Are you willing to investigate? 
+Flag:
+	Real pirates use Z3 not a cutlass
+====
+
+
+
+===
+DOS Attack
+200 Points - Unlocked
+Location:
+	Gill Bates in Town of Adventure
+Description:
+	What x86 instruction has been used to allow access to extended memory without ever entering protected mode?
+Flag:
+	LOADALL
+===
+
+
+
+===
+Ad Subtract
+75 Points - Unlocked
+Description:
+	I hate advertisements! I'll give you a prize if you can get rid of them for me.
+Location:
+	Old McDonald in Town of Awesome
+Flag:
+	AdBlockedHaveASillyMooseAnyway
+===
+
+
+===
+Moon Boots
+50 Points - Unlocked
+Flag:
+	Use a Tab, Space will leave you breathless
+===
+
+===
+Portal
+200 Points - Unlocked
+Description:
+	The Creator has left a message for us in something called The Credits. If you find what it says I'd like to hear it. 
+Files Needed:
+	credits.ogv
+Location:
+	FlagOS in Town of Adventure
+Flag:
+	Cave Johnson hates Black Mesa
+===

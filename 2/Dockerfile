@@ -1,5 +1,6 @@
 FROM ubuntu:12.04
 
+# ADD http://ghostintheshellcode.com/2014-final/pwnadventure2_server.tgz /root/
 COPY pwnadventure2_server.tgz /root
 
 RUN cd /root && tar xvzf pwnadventure2_server.tgz && apt-get update -y && apt-get upgrade -y && apt-get install ia32-libs mono-devel python-netifaces -y
