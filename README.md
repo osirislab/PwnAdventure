@@ -2,12 +2,12 @@
 
 Pwn Adventure is a series of games released by Vector 35 that are designed to be hacked. 
 
-These files make it easy to run your own Pwn Adventure CTF using the Vector 35 game files and CTFd. 
+These files make it easy to run your own Pwn Adventure CTF using the [Vector 35](https://vector35.com/) [game files](http://pwnadventure.com/) and [CTFd](https://github.com/CTFd/CTFd). 
 
 
 To setup PwnAdventure 2 with CTFd:
 
-1. Run `python import.py <PwnAdventure 2.2018-01-08.zip> challenges` from the CTFd source directory and point to the appropriate zip file in the 2/ directory.
+1. Run `python import.py PwnAdventure 2.2018-01-08.zip challenges` from the CTFd source directory and point to the appropriate zip file in the 2/ directory.
 
 2. Run a PwnAdventure 2 server:
 
@@ -18,9 +18,11 @@ docker-compose up
 
 To setup PwnAdventure 3 with CTFd:
 
-1. Run `python import.py <PwnAdventure 3.2018-01-08.zip> challenges` from the CTFd source directory and point to the appropriate zip file in the 3/ directory.
+1. Run `python import.py PwnAdventure 3.2018-01-08.zip challenges` from the CTFd source directory and point to the appropriate zip file in the 3/ directory.
 
-2. Run a PwnAdventure 3 server: *Note this is not currently working*
+2. Run a PwnAdventure 3 server: 
+
+*Note this is not currently working but the original PwnAdventure 3 servers are still running*
 
 ```bash
 cd 3/
