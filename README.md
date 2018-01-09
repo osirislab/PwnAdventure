@@ -1,9 +1,10 @@
-# Pwn Adventure
+# Pwn Adventure CTF
 
 Pwn Adventure is a series of games released by Vector 35 that are designed to be hacked. 
 
-These files make it easy to run your own Pwn Adventure CTF using the [Vector 35](https://vector35.com/) [game files](http://pwnadventure.com/) and [CTFd](https://github.com/CTFd/CTFd). 
+With these files you can relive the CTF competition with your friends using the [Vector 35](https://vector35.com/) [game files](http://pwnadventure.com/) and [CTFd](https://github.com/CTFd/CTFd) backup format. 
 
+## Pwn Adventure 2
 
 To setup PwnAdventure 2 with CTFd:
 
@@ -15,6 +16,8 @@ To setup PwnAdventure 2 with CTFd:
 cd 2/
 docker-compose up
 ```
+
+## Pwn Adventure 3
 
 To setup PwnAdventure 3 with CTFd:
 
