@@ -1,0 +1,17 @@
+# docker-compose up --force-recreate
+version: '2'
+
+services:
+  MasterServer:
+    build: master
+    ports:
+      - "0.0.0.0:3333:3333"
+    environment:
+      - HOST=127.0.0.1
+
+  GameServer:
+    build: game
+    ports:
+      - "0.0.0.0:3000:3000"
+    environment:
+      - HOST=127.0.0.1
