@@ -6,6 +6,8 @@ Pwn Adventure is a series of games released by Vector 35 that are designed to be
 
 With these files you can relive the CTF competition with your friends using the [Vector 35](https://vector35.com/) [game files](http://pwnadventure.com/) and [CTFd](https://github.com/CTFd/CTFd) backup format. 
 
+![https://github.com/CTFd/CTFd](https://user-images.githubusercontent.com/166333/34800164-a711a8e8-f630-11e7-9424-7898c49414d4.png)
+
 ## Pwn Adventure 2
 
 To setup PwnAdventure 2 with CTFd:
